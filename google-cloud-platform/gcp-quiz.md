@@ -404,3 +404,12 @@ Explanation: _BigQuery offers a choice of two pricing models for runnig queries:
 - [ ] Create a VM instance, and then SSH into the instance and install Docker tools.
 - [ ] Create a VM instance and, in the web UI, select Allow HTTP traffic.
 - [ ] Create a VM instance and, in the web Ul, select Deploy a container image to this instance.
+
+#### Q54. Cloud Genomics enables pipelines to run on top of which GCP service?
+
+- [ ] Google Kubernetes Engine
+- [ ] Cloud Dataproc
+- [X] Compute Engine
+- [ ] Cloud Dataflow
+
+[Reference](https://cloud.google.com/life-sciences)
